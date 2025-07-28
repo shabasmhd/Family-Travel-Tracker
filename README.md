@@ -1,10 +1,10 @@
-# 🧳 Family Travel Tracker
+🧳 Family Travel Tracker
 
 A simple and useful Node.js web app to track the travel history of your entire family. Add members, log visited countries, and see a full travel record — all in one place.
 
 ---
 
-## 👨‍👩‍👧‍👦 What It Does
+👨‍👩‍👧‍👦 What It Does
 
 - Add family members
 - Track which countries each member has visited
@@ -14,17 +14,17 @@ A simple and useful Node.js web app to track the travel history of your entire f
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - Node.js
 - Express.js
 - PostgreSQL
-- EJS (for templating)
-- CSS (for styling)
+- EJS 
+- CSS 
 
 ---
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
 1. **Clone the repository:**
 
