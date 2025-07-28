@@ -1,0 +1,105 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.*  # For things like .env.local, .env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build outputs
+dist/
+build/
+coverage/
+tmp/
+temp/
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing
+coverage/
+jest-cache/
+jest-output/
+
+# Dependency directories
+bower_components/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# VS Code settings (optional to ignore)
+.vscode/
+
+# PM2 logs
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv backups
+.env.backup
+.env.old
+
+# Others
+*.tgz
+*.bak
+*.swp
+*.tmp
+
+# GitHub Codespaces
+.devcontainer/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache
+ehthumbs.db
+
+# Linux trash
+.Trash-*
+
+# Next.js (if you're using it)
+.next/
+
+# Parcel
+.cache/
+
+# SvelteKit
+.svelte-kit/
+
+# Nuxt
+.nuxt/
+
+# React Native
+android/
+ios/
+
+# Firebase
+.firebase/
+
+# Docker
+docker-compose.override.yml
